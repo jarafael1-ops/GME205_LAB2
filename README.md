@@ -1,12 +1,9 @@
-# Project Title
+# Project Title Simple Spatial  Objects in Python
 
-Simple overview of use/purpose.
+## Objectives 
+To implement basic Python classes and methods to support spatial reasoning 
 
-## Description
 
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
 
 
 ## Reflections 
