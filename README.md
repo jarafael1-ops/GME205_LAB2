@@ -1,9 +1,13 @@
-# Laboratory 2 Simple Spatial Objects in Python 
+# Project Title
 
-## How to set up the virtual environment
-The virtual environment set up, first create a folder named, and open it in Visul Studio Code as the project root. Next inside the folder create/ adding a subfolders (data,output,src,tests) and files (README.md, requirement.txt, data/points.csv, src/spatial.py).
-Next open the VS Code Terminal and create a virtual environment with python -m venv .venv, then activate it ./.venv/scripts/activate on windows or source.venv/bin/activate.
-# Description 
+Simple overview of use/purpose.
+
+## Description
+
+An in-depth paragraph about your project and overview of use.
+
+## Getting Started
+
 
 ## Reflections 
 Respond to the following and write a section in your README.md
